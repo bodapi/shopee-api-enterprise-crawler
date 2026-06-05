@@ -133,4 +133,4 @@ For API access, documentation, and custom data solutions, please visit our offic
 * Official Website: https://bodapi.com
 * Telegram | @bodapi_dan
 * WeChat (微信) | `daniellehallasgo`
-* Email: support@bodapi.com
+* Email: danielle@bodapi.com
