@@ -12,6 +12,14 @@ This serves as the central hub for the **Shopee Global Commerce Data API**. It p
 
 ---
 
+## 💡 Key Use Cases
+* **Market Entry:** Analyze competitor pricing before launching in a new region (e.g., ID, BR, MX).
+* **Price Monitoring:** Automatic alerts for competitor price drops or flash sales.
+* **Inventory Optimization:** Keep track of stock levels across your entire category.
+* **Consumer Insights:** Batch-export thousands of reviews to identify product quality trends.
+
+---
+
 ## 🌎 Global Market Coverage
 
 One API to access all Shopee regions:
