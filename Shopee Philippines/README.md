@@ -72,6 +72,6 @@ For API access, full documentation, and custom data solutions, please visit our 
 * **Official Website:** [bodapi.com](https://bodapi.com)
 * **Telegram:** [@bodapi_dan](https://t.me/bodapi_dan)
 * **WeChat (微信):** `daniellehallasgo`
-* **Email:** support@bodapi.com
+* **Email:** danielle@bodapi.com
 
 *© 2026 Bodapi Global Data Operations. High-fidelity e-commerce intelligence at scale.*
